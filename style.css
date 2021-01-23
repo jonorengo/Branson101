@@ -3,7 +3,13 @@ h4 {
   text-align: center;
 }
 body {
-  background-color: papayawhip;
+  background: rgb(19, 24, 199);
+  background: linear-gradient(
+    90deg,
+    rgba(19, 24, 199, 0.6376925770308124) 0%,
+    rgba(43, 163, 199, 1) 48%,
+    rgba(19, 24, 199, 0.3295693277310925) 100%
+  );
 }
 ol {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
