@@ -22,4 +22,10 @@ p {
 a {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   padding-left: 4%;
+  color: crimson;
+}
+img {
+  width: 50%;
+  height: 50%;
+  padding-left: 25%;
 }
