@@ -1,3 +1,10 @@
 body {
   background-color: whitesmoke;
 }
+.skills {
+  width: 50%;
+  height: 50%;
+}
+.testlist {
+  font-style: italic;
+}
